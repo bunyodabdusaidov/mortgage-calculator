@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">MortgageCalculator</string>
+    <string name="loan_amount_tv">Loan Amount</string>
+    <string name="interest_rate_tv">Interest Rate (%)</string>
+    <string name="loan_term_tv">Loan Term (years)</string>
+    <string name="loan_amount_et">Enter loan amount</string>
+    <string name="interest_rate_et">Enter interest rate</string>
+    <string name="loan_term_et">Enter loan term</string>
+    <string name="calculate_monthly_payment_btn">Calculate Monthly Payment</string>
+
+    <string name="refinance_calculator_btn">Refinance Calculator</string>
+    <string name="affordability_calculator_btn">Affordability Calculator</string>
+
+    <string name="monthly_income_tv">Monthly Income</string>
+    <string name="monthly_debt_tv">Monthly Debt</string>
+    <string name="interest_rate_2_tv">Monthly Interest Rate</string>
+    <string name="loan_term_in_years_tv">Loan Term in Years</string>
+    <string name="down_payment_tv">Down Payment</string>
+    <string name="monthly_income_et">Enter your monthly income</string>
+    <string name="monthly_debt_et">Enter your monthly debt</string>
+    <string name="interest_rate_2_et">Enter your interest rate</string>
+    <string name="loan_term_in_years_et">Enter your loan term in years</string>
+    <string name="down_payment_et">Enter your down payment</string>
+    <string name="calculate_affordability_btn">Calculate affordability</string>
+
+    <string name="current_loan_balance_tv">Current Loan Balance</string>
+    <string name="current_interest_rate_tv">Current Interest Rate (%)</string>
+    <string name="current_loan_term_tv">Current loan Term (years)</string>
+    <string name="new_interest_rate_tv">New Interest Rate (%)</string>
+    <string name="new_loan_term_tv">New Loan Term (years)</string>
+    <string name="closing_costs_tv">Closing Costs</string>
+    <string name="current_loan_balance_et">Enter current loan balance</string>
+    <string name="current_interest_rate_et">Enter current interest rate</string>
+    <string name="current_loan_term_et">Enter current loan term</string>
+    <string name="new_interest_rate_et">Enter new interest rate</string>
+    <string name="new_loan_term_et">Enter new loan term</string>
+    <string name="closing_costs_et">Enter closing costs</string>
+    <string name="calculate_refinance_savings_btn">Calculate Refinance Savings</string>
+
+</resources>
